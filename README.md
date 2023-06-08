@@ -1,1 +1,1 @@
-# GameSense-Luas
+# Some lua pack for GS
