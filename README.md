@@ -1,1 +1,1 @@
-# Some lua pack for GS
+# Collection of GS luas, some may be outdated.
